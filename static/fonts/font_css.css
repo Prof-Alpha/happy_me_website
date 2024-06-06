@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Shabnam;
+    src: url('shabnam/Farsi-Digits/Shabnam-Bold-FD.woff'),
+     url('shabnam/Shabnam-Bold.woff'),
+     url('yekan-font/Yekan.woff'),
+     url('shabnam/Farsi-Digits/Shabnam-FD.woff');
+  }
+
+  body {
+    font-family: Shabnam !important;
+  }
